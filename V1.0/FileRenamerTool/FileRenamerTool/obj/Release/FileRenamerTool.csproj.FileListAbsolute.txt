@@ -1,0 +1,16 @@
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\bin\Release\FileRenamerTool.exe.config
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\bin\Release\FileRenamerTool.exe.manifest
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\bin\Release\FileRenamerTool.application
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\bin\Release\FileRenamerTool.exe
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\bin\Release\FileRenamerTool.pdb
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\obj\Release\FileRenamerTool.csproj.AssemblyReference.cache
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\obj\Release\FileRenamerTool.AboutForm.resources
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\obj\Release\FileRenamerTool.文件批量重命名工具.resources
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\obj\Release\FileRenamerTool.Properties.Resources.resources
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\obj\Release\FileRenamerTool.csproj.GenerateResource.cache
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\obj\Release\FileRenamerTool.csproj.CoreCompileInputs.cache
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\obj\Release\FileRenamerTool.exe.manifest
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\obj\Release\FileRenamerTool.application
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\obj\Release\FileRenamerTool.exe
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\obj\Release\FileRenamerTool.pdb
+C:\Users\hande\Desktop\文件批量重命名工具\V1.0\FileRenamerTool\FileRenamerTool\obj\Release\FileRenamerTool.exe.config
